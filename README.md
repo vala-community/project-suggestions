@@ -1,2 +1,2 @@
 # community
-TO host discussions
+To host discussions
